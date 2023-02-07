@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Felipe..
 
-
+- 📚 Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do sul
 - 🔭 Hoje estou focado no Front-end
 - 🖥️ Estudando Html, CSS, JavaScript, Git e Github
 - 📩 Contate-me no email: matheusibnf@hotmail.com
