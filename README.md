@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando Html, CSS, JavaScript, Git e Github
 - 📩 Contate-me no email: matheusibnf@hotmail.com
 
 
