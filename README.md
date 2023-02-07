@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Matheus Felipe..
 
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Html, CSS, JavaScript, Git e Github
+- 🔭 Hoje estou focado no Front-end
+- 🖥️ Estudando Html, CSS, JavaScript, Git e Github
 - 📩 Contate-me no email: matheusibnf@hotmail.com
 
 
