@@ -30,3 +30,11 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
 </p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theusfelipe&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
