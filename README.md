@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Matheus Felipe..
 
 - 📚 Estudando Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do sul
+- 💜💻 Aluno Rocketseat - Explorer
 - 🔭 Front-end
 - 🖥️ Estudando Html, CSS, JavaScript, Git e Github
 - 📩 Contate-me no email: matheusibnf@hotmail.com
