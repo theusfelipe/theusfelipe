@@ -1,5 +1,19 @@
 ## Olá! Eu sou o Matheus Felipe..
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theusfelipe&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"
+      width=100%/>
+
+</p>
+
+
 - 📚 Estudando Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do sul
 - 💜💻 Aluno Rocketseat - Explorer
 - 🔭 Front-end
@@ -16,6 +30,8 @@
 </div>
 
 
+
+##Tecnologias em aprendizado...
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,16 +45,4 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theusfelipe&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p align="center">
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"
-      width=100%/>
-
-</p>
 
