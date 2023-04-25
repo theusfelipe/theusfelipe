@@ -1,19 +1,5 @@
 <h1 align=center>Olá! Eu sou Matheus..</h1>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=theusfelipe&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p align="center">
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"
-      width=100%/>
-
-</p>
-
-
 - 📚 Estudando Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do sul
 - 💜💻 Aluno Rocketseat - Explorer
 - 🔭 Front-end
@@ -42,6 +28,21 @@
   <a href="https://www.linkedin.com/in/matheus-felipe-002597240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theusfelipe&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"
+      width=100%/>
+
+</p>
 
 
 
