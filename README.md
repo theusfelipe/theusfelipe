@@ -2,10 +2,11 @@
 
 > Front-end Dev, Systems Analyst and Developer.
 ## Stats
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <a href="#">
-  <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=romhenri&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged" alt="romhenri's stats" />
+  <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=theusfelipe&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged" alt="romhenri's stats" />
   <!-- <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=romhenri&theme=github_dark&hide_border=false" alt="romhenri's stats" /> -->
   <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@romulohenri&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,rpmspec,ezhil,sql,text,json,,xml,bash,csv,prisma,other,Image+%28svg%29,Git%20Config,GDScript3,ActionScript%203,yaml,markdown" alt="romhenri's stats">
 </a>
@@ -19,6 +20,7 @@
 > The primary languages, frameworks, and techs that I utilize in my projects.
 
 ### Languages:
+
 <div display="inline_block" >
 <a href="https://github.com/romhenri/javascript" target="_blank" alt="JavaScript"><img align="center" alt="JavaScript" height="54" width="72" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 <a href="#" target="_blank" ><img align="center" alt="TypeScript" height="54" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
@@ -51,8 +53,7 @@
 <div>
   <a href="https://www.linkedin.com/in/matheus-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusibnf@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://pt.stackoverflow.com/users/320153/r%c3%b4mulo-henri" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href = "https://www.instagram.com/romulo.henri1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://www.instagram.com/m._felipe_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
