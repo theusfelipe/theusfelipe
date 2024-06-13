@@ -5,11 +5,12 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<a href="#">
-  <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=theusfelipe&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged" alt="theusfelipe's stats" />
+<div align="center" style="display:flex; justify-content: space-evenly;">
+  <a href="#">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=theusfelipe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github"/>
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&layout=compact&langs_count=7&theme=algolia&locale=pt-br&border_radius=10&"/>
 </a>
-
+</div>
 <a href="#">
 
 </a>
