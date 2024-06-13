@@ -7,8 +7,7 @@
 
 <a href="#">
   <img width="49.8%"  src="https://github-readme-stats.vercel.app/api?username=theusfelipe&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&show=reviews,prs_merged" alt="theusfelipe's stats" />
-  <!-- <img width="46.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=@theusfelipe&theme=github_dark&hide_border=false" alt="theusfelipe's stats" /> -->
-  <img width="49.6%" height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@theusfelipe&theme=github_dark&layout=compact&hide_title=true&hide=ini,tsConfig,git,rpmspec,ezhil,sql,text,json,,xml,bash,csv,prisma,other,Image+%28svg%29,Git%20Config,GDScript3,ActionScript%203,yaml,markdown" alt="theusfelipe's stats">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusfelipe&layout=compact&langs_count=7&theme=algolia&locale=pt-br&border_radius=10&"/>
 </a>
 
 <a href="#">
